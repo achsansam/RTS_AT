@@ -45,7 +45,7 @@ public class LoginTask
 	  }
 	 
 	 @Test
-	  public void test2()
+	  public void test2()//automation test2
 	  {   
 	 
 	 WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(30));
